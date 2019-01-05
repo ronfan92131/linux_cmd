@@ -1,0 +1,18 @@
+pwd
+ls
+cd 
+cp
+rm
+rm -r FOLDER // rm a folder including all existing files
+mkdir   //mk new dir
+rmdir   //rm an empty dir 
+clear   // clean up the command window history
+man == info //
+du  //
+df  // display free disk space for the system
+df -f // humanly readable format (use TB, GB instead of long bytes)
+
+killall // kill all processes with the specified name
+touch   // create file, update file timestamp,  
+which   // which program is the default
+ping    // check if network connect to an ip address, and get the round trip time
